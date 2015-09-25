@@ -1,0 +1,6 @@
+SauceOnDemandSessionID=e0590df3538c4b118e23d714d2ae4eef job-name=com.yourcompany.SampleSauceTest.loginTest[1]
+Job link: https://saucelabs.com/jobs/e0590df3538c4b118e23d714d2ae4eef?auth=3ff1bec15b41e9f5f2670b2130107339
+SauceOnDemandSessionID=a1fe234b0a4f4439938706ac6ffce96a job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[2]
+SauceOnDemandSessionID=c9d302cbcbc245578e2275760cfed262 job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[1]
+SauceOnDemandSessionID=a4a78bfb38ea44a99f4df5a8153e0acf job-name=com.yourcompany.SampleSauceTest.loginTest[0]
+SauceOnDemandSessionID=e0a9ab0d04834299ba715789e10f4db7 job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[0]
