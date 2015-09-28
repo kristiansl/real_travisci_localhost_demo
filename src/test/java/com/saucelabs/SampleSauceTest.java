@@ -107,9 +107,9 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
     @ConcurrentParameterized.Parameters
     public static LinkedList browsersStrings() {
         LinkedList browsers = new LinkedList();
-        browsers.add(new String[]{"Samsung Galaxy S5 Device", "Android", "4.4", "Chrome", "Samsung Galaxy S5 Real name"});
-        browsers.add(new String[]{"Samsung Galaxy S4 Device", "Android", "4.4", "Chrome", "Samsung Galaxy S4 Real name"});
-        browsers.add(new String[]{"iPhone 6 Device", "iOS", "8.0", "Safari", "iPhone 6 Real name"});
+        browsers.add(new String[]{"Samsung Galaxy S5 Device", "Android", "4.4", "Chrome", "Samsung Galaxy S5 Real"});
+        browsers.add(new String[]{"Samsung Galaxy S4 Device", "Android", "4.4", "Chrome", "Samsung Galaxy S4 Real"});
+        browsers.add(new String[]{"iPhone 6 Device", "iOS", "8.0", "Safari", "iPhone 6 Real"});
 
  
         return browsers;
