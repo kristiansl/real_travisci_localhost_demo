@@ -1,8 +1,6 @@
-SauceOnDemandSessionID=390d1a0ad08a46d4a41fb8a8745fcb25 job-name=com.yourcompany.SampleSauceTest.loginTest[2]
-Job link: https://saucelabs.com/jobs/390d1a0ad08a46d4a41fb8a8745fcb25?auth=d5274e3aca1c584db9b870b111b66988
-SauceOnDemandSessionID=30b3dac5bc414ddf84736fa2c5ddbe22 job-name=com.yourcompany.SampleSauceTest.loginTest[0]
-Job link: https://saucelabs.com/jobs/30b3dac5bc414ddf84736fa2c5ddbe22?auth=1cfac43b212be3c5c308a294290ae1e4
-SauceOnDemandSessionID=fb72ea9e23654de8a0d0d1b174f8bbea job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[1]
-SauceOnDemandSessionID=a1a118657b104d568c991218e421263c job-name=com.yourcompany.SampleSauceTest.loginTest[1]
-SauceOnDemandSessionID=b1ce8ad222344dbbb8aeff44a7d97551 job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[2]
-SauceOnDemandSessionID=519c8cdcde024027ac9fbf0199ee88f8 job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[0]
+SauceOnDemandSessionID=afb346672f474d61b4d0cca24f060b4d job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[1]
+SauceOnDemandSessionID=fb856b2d04a84674a63ca6257b0c835e job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[0]
+SauceOnDemandSessionID=0bbe9294e43e478f985338c7a76fc1ad job-name=com.yourcompany.SampleSauceTest.verifyTitleTest[2]
+SauceOnDemandSessionID=b083d1bc3dd044538797af500ad269e3 job-name=com.yourcompany.SampleSauceTest.loginTest[2]
+SauceOnDemandSessionID=7f817a814c2f4b3ba375ecdd00cc6f49 job-name=com.yourcompany.SampleSauceTest.loginTest[1]
+SauceOnDemandSessionID=c8b3e450bb2840e38376017ac4df6548 job-name=com.yourcompany.SampleSauceTest.loginTest[0]
