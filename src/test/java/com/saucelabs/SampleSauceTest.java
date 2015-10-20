@@ -41,7 +41,7 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
      * Constructs a {@link SauceOnDemandAuthentication} instance using the supplied user name/access key.  To use the authentication
      * supplied by environment variables or from an external file, use the no-arg {@link SauceOnDemandAuthentication} constructor.
      */
-    public SauceOnDemandAuthentication authentication = new SauceOnDemandAuthentication("YOUR_SAUCE_ID", "YOUR_APIKEY");
+    public SauceOnDemandAuthentication authentication = new SauceOnDemandAuthentication("kristianmeiersl", "69c9ea29-59c8-4b3a-9909-18b1b05343f6");
 
     /**
      * JUnit Rule which will mark the Sauce Job as passed/failed when the test succeeds or fails.
