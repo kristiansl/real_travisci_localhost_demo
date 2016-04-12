@@ -41,7 +41,7 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
      * Constructs a {@link SauceOnDemandAuthentication} instance using the supplied user name/access key.  To use the authentication
      * supplied by environment variables or from an external file, use the no-arg {@link SauceOnDemandAuthentication} constructor.
      */
-    public SauceOnDemandAuthentication authentication = new SauceOnDemandAuthentication("kristianmeiersl", "69c9ea29-59c8-4b3a-9909-18b1b05343f6");
+    public SauceOnDemandAuthentication authentication = new SauceOnDemandAuthentication("kristianmeiersl", "5654145f-77f1-49aa-94d2-428831e575a9");
 
     /**
      * JUnit Rule which will mark the Sauce Job as passed/failed when the test succeeds or fails.
@@ -164,8 +164,8 @@ public class SampleSauceTest implements SauceOnDemandSessionIdProvider {
         Thread.sleep(5000);
         driver.findElement(By.xpath("//a[@title = 'Log in']")).click();
         Thread.sleep(5000);
-        driver.findElement(By.id("username")).sendKeys("abpe17@gmail.com");
-        driver.findElement(By.id("password")).sendKeys("shruti");
+        driver.findElement(By.id("username")).sendKeys("kmeier2");
+        driver.findElement(By.id("password")).sendKeys("password");
         driver.findElement(By.id("submit")).click();
         Thread.sleep(5000);
         
